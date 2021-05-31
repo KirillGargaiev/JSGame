@@ -1,2 +1,4 @@
 # JSGame
-The project created by Kirill Gargaiev, the student of IV-92, KPI
+Навчальний проєкт для демонстрації створення ігор з використанням мови Javascript.
+
+Гаргаєв Кирило | студент НТУУ "КПІ", ФІОТ | kgargaev@gmail.com
